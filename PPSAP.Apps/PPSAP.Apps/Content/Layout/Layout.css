@@ -1,0 +1,175 @@
+﻿/*html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}*/
+.left-pull_noauth{
+    margin-right: 80px;
+}
+
+#pageFooter {
+    background: #fff;
+    margin-top: 25px;
+    border-top: 2px solid #ececec;
+    margin-bottom: 0px;
+}
+
+.footer-wrapper {
+    padding: 25px;
+}
+
+#pageFooter h3 {
+    font-size: 15px;
+    font-weight: bold;
+    color: #000;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+#pageFooter .list-unstyled a {
+    color: #557ab5;
+}
+
+#pageFooter .list-unstyled li {
+    margin-bottom: 5px;
+}
+
+.column-sites,
+.column-follow {
+    border-left: 1px solid #ddd;
+    padding-left: 50px;
+}
+
+#pageFooter.container {
+    width: 100%;
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#pageFooter ul {
+    margin-left: 0;
+}
+
+#pageFooter .copyright {
+    padding-top: 30px;
+    color: #4d4d4d;
+    font-size: 12px;
+    padding: 0 0 20px;
+}
+
+
+#pageFooter .footer-tagline {
+    width: 297px;
+    height: 22px;
+    /*background: url('../svg/aao-tagline-registered-trademark.png') no-repeat center;*/
+    background-size: auto 58px;
+    margin-bottom: 20px
+}
+.list-unstyled {
+    padding-left: 0;
+    list-style: none
+}
+.column-sites,
+.column-follow {
+    border-left: 1px solid #ddd;
+    padding-left: 50px;
+}
+.social-nav {
+    list-style: none;
+    padding: 0;
+    margin: 0
+}
+.social-nav li {
+    padding: 0 15px 15px 0;
+    display: inline-block;
+    vertical-align: middle
+}
+.social-nav li:last-child {
+    padding-right: 0
+}
+.social-nav a:hover, .social-nav a:focus {
+    text-decoration: none
+}
+.biography .social-icon.facebook {
+    background-position: 0 0
+}
+.twitter-timeline {
+    width: 100%
+}
+.twitter-timeline.annualmeeting {
+    height: 300px
+}
+.biography .social-icon.twitter {
+    background-position: -25px 0
+}
+.biography .social-icon.linkedin {
+    background-position: -127px 0
+}
+
+img.social-icn {
+    width: 32px;
+    height: auto
+}
+
+@media (max-width: 992px) {
+    .footer-wrapper {
+        text-align: center;
+    }
+
+    .column-links {
+        margin-bottom: 15px;
+    }
+
+    .column-sites,
+    .column-follow {
+        border-left: none;
+        padding-left: 0;
+        margin-bottom: 25px;
+    }
+
+    #pageFooter .column-links .list-unstyled li {
+        display: inline-block;
+        margin: 0 10px 15px;
+    }
+
+    #pageFooter .column-sites .list-unstyled li {
+        margin: 0 0 15px;
+    }
+
+    #pageFooter .footer-tagline {
+        width: 100%;
+        background-size: auto 48px;
+    }
+}
+
+@media (max-width: 992px) {
+    .footer-wrapper {
+        text-align: center;
+    }
+
+    .column-links {
+        margin-bottom: 15px;
+    }
+
+    .column-sites,
+    .column-follow {
+        border-left: none;
+        padding-left: 0;
+        margin-bottom: 25px;
+    }
+
+    #pageFooter .column-links .list-unstyled li {
+        display: inline-block;
+        margin: 0 10px 15px;
+    }
+
+    #pageFooter .column-sites .list-unstyled li {
+        margin: 0 0 15px;
+    }
+
+    #pageFooter .footer-tagline {
+        width: 100%;
+        background-size: auto 48px;
+    }
+}

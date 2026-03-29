@@ -1,0 +1,1140 @@
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.WebAPI.dll.config
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.WebAPI.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.WebAPI.pdb
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csc.exe
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csc.exe.config
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csc.rsp
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csi.exe
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csi.exe.config
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csi.rsp
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.AppContext.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Console.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.Compression.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Net.Http.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Net.Sockets.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.ValueTuple.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.XPath.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\vbc.exe
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\vbc.exe.config
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\vbc.rsp
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\VBCSCompiler.exe
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.Win32.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\netstandard.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.AppContext.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.Concurrent.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.NonGeneric.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.Specialized.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.EventBasedAsync.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.TypeConverter.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Console.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Data.Common.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Contracts.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Debug.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.FileVersionInfo.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Process.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.StackTrace.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Tools.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.TraceSource.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Tracing.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Drawing.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Dynamic.Runtime.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Globalization.Calendars.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Globalization.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Globalization.Extensions.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.Compression.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.Compression.ZipFile.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.DriveInfo.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.Watcher.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.IsolatedStorage.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.MemoryMappedFiles.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.Pipes.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.UnmanagedMemoryStream.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.Expressions.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.Parallel.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.Queryable.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Http.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.NameResolution.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.NetworkInformation.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Ping.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Requests.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Security.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Sockets.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.WebHeaderCollection.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.WebSockets.Client.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.WebSockets.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ObjectModel.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Reflection.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Reflection.Extensions.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Reflection.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Resources.Reader.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Resources.ResourceManager.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Resources.Writer.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Extensions.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Handles.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.InteropServices.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Numerics.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Formatters.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Json.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Xml.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Claims.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Algorithms.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Csp.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Encoding.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.X509Certificates.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Principal.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.SecureString.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Text.Encoding.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Text.Encoding.Extensions.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Text.RegularExpressions.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Overlapped.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Tasks.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Tasks.Parallel.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Thread.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.ThreadPool.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Timer.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ValueTuple.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.ReaderWriter.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XDocument.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XmlDocument.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XmlSerializer.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XPath.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XPath.XDocument.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Antlr3.Runtime.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\HtmlAgilityPack.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Newtonsoft.Json.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.BAL.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.Common.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DAL.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DTO.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.QRREADER.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.SQLHelper.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Settings.AppSettings.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.Console.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.File.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.RollingFile.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Buffers.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Data.SqlClient.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Memory.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Http.Formatting.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Numerics.Vectors.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Helpers.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.WebHost.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Mvc.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Optimization.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Razor.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Razor.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\WebGrease.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.presentation.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.BAL.pdb
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.BAL.dll.config
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.Common.pdb
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.Common.dll.config
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DAL.pdb
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DAL.dll.config
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DTO.pdb
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DTO.dll.config
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.QRREADER.pdb
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.QRREADER.dll.config
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.SQLHelper.pdb
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.SQLHelper.dll.config
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\HtmlAgilityPack.pdb
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\HtmlAgilityPack.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.Console.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.File.pdb
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.File.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.RollingFile.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Buffers.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Data.SqlClient.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Memory.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Numerics.Vectors.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Newtonsoft.Json.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Http.Formatting.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Helpers.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.WebHost.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Mvc.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Optimization.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Razor.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Razor.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Antlr3.Runtime.pdb
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.presentation.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.csproj.AssemblyReference.cache
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.csproj.CoreCompileInputs.cache
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.csproj.CopyComplete
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.dll
+F:\Test_Project\Framework4.6.1\Project2\PPSAP\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.pdb
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.WebAPI.dll.config
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.WebAPI.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.WebAPI.pdb
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csc.exe
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csc.exe.config
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csc.rsp
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csi.exe
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csi.exe.config
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csi.rsp
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.AppContext.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Console.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.Compression.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Net.Http.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Net.Sockets.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.ValueTuple.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.XPath.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\vbc.exe
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\vbc.exe.config
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\vbc.rsp
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\VBCSCompiler.exe
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.Win32.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\netstandard.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.AppContext.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.Concurrent.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.NonGeneric.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.Specialized.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.EventBasedAsync.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.TypeConverter.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Console.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Data.Common.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Contracts.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Debug.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.FileVersionInfo.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Process.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.StackTrace.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Tools.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.TraceSource.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Tracing.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Drawing.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Dynamic.Runtime.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Globalization.Calendars.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Globalization.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Globalization.Extensions.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.Compression.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.Compression.ZipFile.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.DriveInfo.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.Watcher.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.IsolatedStorage.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.MemoryMappedFiles.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.Pipes.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.UnmanagedMemoryStream.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.Expressions.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.Parallel.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.Queryable.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Http.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.NameResolution.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.NetworkInformation.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Ping.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Requests.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Security.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Sockets.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.WebHeaderCollection.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.WebSockets.Client.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.WebSockets.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ObjectModel.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Reflection.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Reflection.Extensions.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Reflection.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Resources.Reader.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Resources.ResourceManager.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Resources.Writer.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Extensions.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Handles.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.InteropServices.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Numerics.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Formatters.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Json.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Xml.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Claims.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Algorithms.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Csp.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Encoding.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Primitives.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.X509Certificates.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Principal.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.SecureString.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Text.Encoding.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Text.Encoding.Extensions.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Text.RegularExpressions.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Overlapped.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Tasks.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Tasks.Parallel.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Thread.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.ThreadPool.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Timer.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ValueTuple.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.ReaderWriter.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XDocument.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XmlDocument.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XmlSerializer.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XPath.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XPath.XDocument.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Antlr3.Runtime.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\HtmlAgilityPack.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Newtonsoft.Json.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.BAL.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.Common.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DAL.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DTO.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.QRREADER.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.SQLHelper.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Settings.AppSettings.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.Console.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.File.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.RollingFile.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Buffers.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Data.SqlClient.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Memory.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Http.Formatting.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Numerics.Vectors.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Helpers.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.WebHost.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Mvc.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Optimization.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Razor.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Razor.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\WebGrease.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.presentation.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.BAL.pdb
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.BAL.dll.config
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.Common.pdb
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.Common.dll.config
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DAL.pdb
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DAL.dll.config
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DTO.pdb
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DTO.dll.config
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.QRREADER.pdb
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.QRREADER.dll.config
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.SQLHelper.pdb
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.SQLHelper.dll.config
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\HtmlAgilityPack.pdb
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\HtmlAgilityPack.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.Console.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.File.pdb
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.File.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.RollingFile.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Buffers.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Data.SqlClient.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Memory.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Numerics.Vectors.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Newtonsoft.Json.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Http.Formatting.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Helpers.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.WebHost.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Mvc.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Optimization.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Razor.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Razor.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Antlr3.Runtime.pdb
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.presentation.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.csproj.AssemblyReference.cache
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.csproj.CoreCompileInputs.cache
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.csproj.CopyComplete
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.dll
+F:\Test_Project\Framework4.6.1\Project4\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.pdb
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.WebAPI.dll.config
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.WebAPI.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.WebAPI.pdb
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csc.exe
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csc.exe.config
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csc.rsp
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csi.exe
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csi.exe.config
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csi.rsp
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.AppContext.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Console.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.Compression.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Net.Http.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Net.Sockets.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.ValueTuple.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.XPath.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\vbc.exe
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\vbc.exe.config
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\vbc.rsp
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\VBCSCompiler.exe
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.Win32.Primitives.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\netstandard.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.AppContext.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.Concurrent.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.NonGeneric.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.Specialized.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.EventBasedAsync.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.Primitives.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.TypeConverter.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Console.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Data.Common.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Contracts.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Debug.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.FileVersionInfo.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Process.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.StackTrace.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Tools.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.TraceSource.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Tracing.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Drawing.Primitives.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Dynamic.Runtime.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Globalization.Calendars.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Globalization.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Globalization.Extensions.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.Compression.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.Compression.ZipFile.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.DriveInfo.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.Primitives.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.Watcher.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.IsolatedStorage.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.MemoryMappedFiles.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.Pipes.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.UnmanagedMemoryStream.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.Expressions.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.Parallel.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.Queryable.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Http.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.NameResolution.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.NetworkInformation.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Ping.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Primitives.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Requests.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Security.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Sockets.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.WebHeaderCollection.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.WebSockets.Client.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.WebSockets.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ObjectModel.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Reflection.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Reflection.Extensions.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Reflection.Primitives.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Resources.Reader.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Resources.ResourceManager.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Resources.Writer.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Extensions.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Handles.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.InteropServices.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Numerics.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Formatters.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Json.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Primitives.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Xml.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Claims.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Algorithms.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Csp.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Encoding.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Primitives.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.X509Certificates.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Principal.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.SecureString.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Text.Encoding.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Text.Encoding.Extensions.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Text.RegularExpressions.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Overlapped.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Tasks.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Tasks.Parallel.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Thread.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.ThreadPool.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Timer.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ValueTuple.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.ReaderWriter.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XDocument.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XmlDocument.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XmlSerializer.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XPath.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XPath.XDocument.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Antlr3.Runtime.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\HtmlAgilityPack.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Newtonsoft.Json.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.BAL.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.Common.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DAL.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DTO.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.QRREADER.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.SQLHelper.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Settings.AppSettings.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.Console.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.File.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.RollingFile.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Buffers.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Data.SqlClient.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Memory.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Http.Formatting.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Numerics.Vectors.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Helpers.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.WebHost.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Mvc.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Optimization.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Razor.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Razor.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\WebGrease.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.presentation.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.BAL.pdb
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.BAL.dll.config
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.Common.pdb
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.Common.dll.config
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DAL.pdb
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DAL.dll.config
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DTO.pdb
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DTO.dll.config
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.QRREADER.pdb
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.QRREADER.dll.config
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.SQLHelper.pdb
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.SQLHelper.dll.config
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\HtmlAgilityPack.pdb
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\HtmlAgilityPack.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.Console.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.File.pdb
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.File.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.RollingFile.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Buffers.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Data.SqlClient.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Memory.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Numerics.Vectors.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Newtonsoft.Json.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Http.Formatting.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Helpers.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.WebHost.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Mvc.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Optimization.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Razor.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Razor.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Antlr3.Runtime.pdb
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.presentation.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.csproj.AssemblyReference.cache
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.csproj.CoreCompileInputs.cache
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.dll
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.pdb
+F:\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.csproj.CopyComplete
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.WebAPI.dll.config
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.WebAPI.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.WebAPI.pdb
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csc.exe
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csc.exe.config
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csc.rsp
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csi.exe
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csi.exe.config
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csi.rsp
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.AppContext.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Console.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.Compression.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Net.Http.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Net.Sockets.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.ValueTuple.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.XPath.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\vbc.exe
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\vbc.exe.config
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\vbc.rsp
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.Win32.Primitives.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\netstandard.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.AppContext.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.Concurrent.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.NonGeneric.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.Specialized.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.EventBasedAsync.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.Primitives.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.TypeConverter.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Console.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Data.Common.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Contracts.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Debug.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.FileVersionInfo.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Process.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.StackTrace.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Tools.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.TraceSource.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Tracing.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Drawing.Primitives.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Dynamic.Runtime.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Globalization.Calendars.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Globalization.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Globalization.Extensions.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.Compression.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.Compression.ZipFile.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.DriveInfo.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.Primitives.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.Watcher.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.IsolatedStorage.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.MemoryMappedFiles.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.Pipes.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.UnmanagedMemoryStream.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.Expressions.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.Parallel.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.Queryable.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Http.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.NameResolution.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.NetworkInformation.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Ping.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Primitives.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Requests.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Security.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Sockets.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.WebHeaderCollection.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.WebSockets.Client.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.WebSockets.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ObjectModel.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Reflection.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Reflection.Extensions.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Reflection.Primitives.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Resources.Reader.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Resources.ResourceManager.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Resources.Writer.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Extensions.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Handles.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.InteropServices.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Numerics.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Formatters.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Json.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Primitives.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Xml.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Claims.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Algorithms.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Csp.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Encoding.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Primitives.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.X509Certificates.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Principal.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.SecureString.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Text.Encoding.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Text.Encoding.Extensions.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Text.RegularExpressions.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Overlapped.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Tasks.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Tasks.Parallel.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Thread.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.ThreadPool.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Timer.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ValueTuple.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.ReaderWriter.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XDocument.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XmlDocument.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XmlSerializer.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XPath.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XPath.XDocument.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Antlr3.Runtime.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\HtmlAgilityPack.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Newtonsoft.Json.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.BAL.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.Common.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DAL.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DTO.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.QRREADER.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.SQLHelper.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Settings.AppSettings.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.Console.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.File.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.RollingFile.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Buffers.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Data.SqlClient.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Memory.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Numerics.Vectors.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Helpers.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Mvc.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Optimization.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Razor.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\WebGrease.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.presentation.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.BAL.pdb
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.BAL.dll.config
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.Common.pdb
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.Common.dll.config
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DAL.pdb
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DAL.dll.config
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DTO.pdb
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DTO.dll.config
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.QRREADER.pdb
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.QRREADER.dll.config
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.SQLHelper.pdb
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.SQLHelper.dll.config
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\HtmlAgilityPack.pdb
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\HtmlAgilityPack.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.Console.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.File.pdb
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.File.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.RollingFile.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Buffers.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Data.SqlClient.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Memory.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Numerics.Vectors.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Newtonsoft.Json.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Helpers.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Mvc.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Optimization.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Razor.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Antlr3.Runtime.pdb
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.presentation.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.csproj.AssemblyReference.cache
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.csproj.CoreCompileInputs.cache
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.csproj.CopyComplete
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.dll
+D:\zOthers\Others\PPSAP_project\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.pdb
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.WebAPI.dll.config
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.WebAPI.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.WebAPI.pdb
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csc.exe
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csc.exe.config
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csc.rsp
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csi.exe
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csi.exe.config
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\csi.rsp
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.AppContext.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Console.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.Compression.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Net.Http.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Net.Sockets.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.ValueTuple.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.XPath.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\vbc.exe
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\vbc.exe.config
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\vbc.rsp
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\VBCSCompiler.exe
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.Win32.Primitives.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\netstandard.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.AppContext.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.Concurrent.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.NonGeneric.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Collections.Specialized.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.EventBasedAsync.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.Primitives.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ComponentModel.TypeConverter.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Console.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Data.Common.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Contracts.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Debug.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.FileVersionInfo.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Process.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.StackTrace.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Tools.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.TraceSource.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.Tracing.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Drawing.Primitives.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Dynamic.Runtime.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Globalization.Calendars.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Globalization.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Globalization.Extensions.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.Compression.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.Compression.ZipFile.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.DriveInfo.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.Primitives.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.FileSystem.Watcher.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.IsolatedStorage.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.MemoryMappedFiles.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.Pipes.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.IO.UnmanagedMemoryStream.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.Expressions.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.Parallel.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Linq.Queryable.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Http.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.NameResolution.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.NetworkInformation.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Ping.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Primitives.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Requests.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Security.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Sockets.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.WebHeaderCollection.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.WebSockets.Client.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.WebSockets.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ObjectModel.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Reflection.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Reflection.Extensions.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Reflection.Primitives.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Resources.Reader.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Resources.ResourceManager.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Resources.Writer.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Extensions.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Handles.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.InteropServices.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Numerics.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Formatters.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Json.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Primitives.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.Serialization.Xml.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Claims.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Algorithms.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Csp.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Encoding.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.Primitives.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Cryptography.X509Certificates.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.Principal.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Security.SecureString.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Text.Encoding.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Text.Encoding.Extensions.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Text.RegularExpressions.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Overlapped.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Tasks.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Tasks.Parallel.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Thread.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.ThreadPool.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Threading.Timer.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.ValueTuple.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.ReaderWriter.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XDocument.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XmlDocument.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XmlSerializer.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XPath.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Xml.XPath.XDocument.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Antlr3.Runtime.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\HtmlAgilityPack.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Newtonsoft.Json.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.BAL.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.Common.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DAL.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DTO.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.QRREADER.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.SQLHelper.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Settings.AppSettings.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.Console.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.File.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.RollingFile.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Buffers.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Data.SqlClient.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Memory.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Http.Formatting.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Numerics.Vectors.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Helpers.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.WebHost.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Mvc.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Optimization.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Razor.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Razor.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\WebGrease.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.presentation.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.BAL.pdb
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.BAL.dll.config
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.Common.pdb
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.Common.dll.config
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DAL.pdb
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DAL.dll.config
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DTO.pdb
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.DTO.dll.config
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.QRREADER.pdb
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.QRREADER.dll.config
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.SQLHelper.pdb
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\PPSAP.SQLHelper.dll.config
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\HtmlAgilityPack.pdb
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\HtmlAgilityPack.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.Console.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.File.pdb
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.File.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Serilog.Sinks.RollingFile.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Buffers.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Data.SqlClient.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Memory.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Numerics.Vectors.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Newtonsoft.Json.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Net.Http.Formatting.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Helpers.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Http.WebHost.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Mvc.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Optimization.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.Razor.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\System.Web.WebPages.Razor.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Antlr3.Runtime.pdb
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\zxing.presentation.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.csproj.AssemblyReference.cache
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.csproj.CoreCompileInputs.cache
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.csproj.CopyComplete
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.dll
+F:\Major_Project for BE\Project_1\PPSAP.WebAPI\PPSAP.WebAPI\obj\Debug\PPSAP.WebAPI.pdb

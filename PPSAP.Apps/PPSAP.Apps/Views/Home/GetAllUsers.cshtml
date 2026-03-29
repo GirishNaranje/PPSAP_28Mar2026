@@ -1,0 +1,41 @@
+﻿@*@model.PPSAP.DTO.UserDataDTO*@
+@model List<PPSAP.DTO.UserDataDTO>
+@{
+    ViewBag.Title = "GetAllUsers";
+}
+
+
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+
+<p>This is Get all Users page.</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Sr. No.</th>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            var counter = 1;
+        }
+        @foreach (var user in Model)
+        {
+            var a = 1;
+            <tr>
+                <td>@counter</td>
+                <td>@user.FirstName</td>
+                <td>@user.LastName</td>
+                <td>@user.Email</td>
+                <!-- Add more columns as needed -->
+            </tr>
+            counter++;
+        }
+    <tbody>
+</table>
+

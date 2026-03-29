@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPSAP.WebAPI", "PPSAP.WebAPI\PPSAP.WebAPI.csproj", "{9BA9F7F7-34D5-47C2-A658-C6470B2AF3FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPSAP.BAL", "PPSAP.BAL\PPSAP.BAL.csproj", "{370229F2-23BD-43BD-A735-F8988F994DC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPSAP.Common", "PPSAP.Common\PPSAP.Common.csproj", "{DAED03B6-0752-47EA-976C-7165BA29FEFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPSAP.DAL", "PPSAP.DAL\PPSAP.DAL.csproj", "{112A2490-58D0-465B-A921-12C9A57FD56F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPSAP.DTO", "PPSAP.DTO\PPSAP.DTO.csproj", "{B52AE3F3-2FAE-47D9-87ED-62C62A101524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPSAP.SQLHelper", "PPSAP.SQLHelper\PPSAP.SQLHelper.csproj", "{A68B7CFA-5FEF-4817-93CC-107E0F8E7E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPSAP.QRREADER", "PPSAP.QRREADER\PPSAP.QRREADER.csproj", "{C2BC1F5F-1824-4D90-8089-131F3DBF1B2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BA9F7F7-34D5-47C2-A658-C6470B2AF3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA9F7F7-34D5-47C2-A658-C6470B2AF3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA9F7F7-34D5-47C2-A658-C6470B2AF3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA9F7F7-34D5-47C2-A658-C6470B2AF3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{370229F2-23BD-43BD-A735-F8988F994DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370229F2-23BD-43BD-A735-F8988F994DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370229F2-23BD-43BD-A735-F8988F994DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370229F2-23BD-43BD-A735-F8988F994DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAED03B6-0752-47EA-976C-7165BA29FEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAED03B6-0752-47EA-976C-7165BA29FEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAED03B6-0752-47EA-976C-7165BA29FEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAED03B6-0752-47EA-976C-7165BA29FEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{112A2490-58D0-465B-A921-12C9A57FD56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{112A2490-58D0-465B-A921-12C9A57FD56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{112A2490-58D0-465B-A921-12C9A57FD56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{112A2490-58D0-465B-A921-12C9A57FD56F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52AE3F3-2FAE-47D9-87ED-62C62A101524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52AE3F3-2FAE-47D9-87ED-62C62A101524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52AE3F3-2FAE-47D9-87ED-62C62A101524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52AE3F3-2FAE-47D9-87ED-62C62A101524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A68B7CFA-5FEF-4817-93CC-107E0F8E7E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68B7CFA-5FEF-4817-93CC-107E0F8E7E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A68B7CFA-5FEF-4817-93CC-107E0F8E7E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A68B7CFA-5FEF-4817-93CC-107E0F8E7E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BC1F5F-1824-4D90-8089-131F3DBF1B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BC1F5F-1824-4D90-8089-131F3DBF1B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BC1F5F-1824-4D90-8089-131F3DBF1B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BC1F5F-1824-4D90-8089-131F3DBF1B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2CB4360-090B-4924-B36E-80893001C814}
+	EndGlobalSection
+EndGlobal

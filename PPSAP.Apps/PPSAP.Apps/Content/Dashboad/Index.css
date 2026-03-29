@@ -1,0 +1,86 @@
+﻿.model-ul {
+    padding: 10px 20px 10px 5px;
+    align-content: start;
+    align-items: start;
+    margin-top: 5px;
+}
+
+.message-close {
+    font-size: 2em;
+    color: #fff;
+    top: 14px !important;
+    background: none !important;
+}
+
+    .message-close:hover {
+        color: #fff !important;
+        opacity: 1.5 !important;
+    }
+
+.ul-messagesettings {
+    padding-left: 10px;
+}
+
+.li-message {
+    position: relative;
+    list-style: none;
+    padding-left: 32px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    line-height: 2;
+    font-size: 15px;
+}
+
+    .li-message:before {
+        font-family: FontAwesome;
+        position: absolute;
+        left: 0;
+        color: #337ab7;
+        font-size: 15px;
+    }
+
+    .li-message.one:before {
+        content: "\f111";
+    }
+
+.modal-content {
+    border: rgba(0, 0, 0, .2);
+}
+
+.addnormaltop {
+    margin-top: -187px
+}
+
+.addexpandtop {
+    margin-top: -70px
+}
+
+.addnormaltopscore {
+    margin-top: -280px
+}
+
+.addexpandtopscore {
+    margin-top: -400px
+}
+
+.margin-top-exam {
+    margin-top: -5px
+}
+
+.loader_main {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+.customalert {
+    background-color: unset;
+    border-color: unset;
+    margin: 0px 0px 4px 16px !important;
+    color: red;
+}
+
+.navbar-default {
+    margin-bottom: 12px !important;
+}
+

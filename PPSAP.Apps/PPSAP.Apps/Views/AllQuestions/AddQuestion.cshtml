@@ -1,0 +1,119 @@
+﻿@model PPSAP.DTO.QuestionDetailsDTO
+@{
+    ViewBag.Title = "GetQuestions";
+}
+@*<script src="~/Scripts/jquery-ui.min.js"></script>
+    <script src="~/Scripts/jquery.ui.touch-punch.js"></script>*@
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<link href="~/fonts/font-awesome/css/font-awesome.css" rel="stylesheet" />
+<link href="~/Content/bootstrap-responsive-tabs.css" rel="stylesheet" />
+<link href="~/Content/custom.css" rel="stylesheet" />
+<script src="~/Scripts/BCSCMapper/AddQuestion.js"></script>
+@*<script src="~/Scripts/Notebook/jquery.selectBoxIt.min.js"></script>
+    <link href="~/Content/jquery.selectBoxIt.css" rel="stylesheet" />*@
+
+
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-12">
+            <ul class="breadcrumb">
+                <li class="active">Add Questions</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<a href="javascript:void(0)" class="list-group-item active" style="display:none"></a>
+
+<div class="view-assessment-details">
+    <div class="col-lg-12 xs-nopadding">
+        <div class="content-bg">
+            <div class="content-padding">
+                <div class="row">
+                    <div class="col-lg-12 col-md-4">
+                        <div class="row" style="margin-top:5px!important">
+                            <div class="col-lg-12 col-md-12 pull-right" style="padding-left: 5px!important;">
+                                <div class="notes-filter-container pull-left">
+                                    <div role="tabpanel" class="tab-pane" id="byProgram">
+                                        <div id="searchBySecChaptTop" class="col-lg-12 nopadding martop10">
+                                            <div class="search-wrapper">
+                                                <div class="notes-list">
+                                                    <select id="SectionList" class="form-control mylist"></select>
+                                                </div>
+                                                <div class="notes-list tet">
+                                                    <select id="ChapterList" class="form-control mylist1">
+                                                        <option value=''>Select Chapter</option>
+                                                    </select>
+                                                </div>
+                                                <div class="notes-list tet">
+                                                    <select id="TopicList" class="form-control mylist2">
+                                                        <option value="0">Select Topic</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+
+                                            <div id="Model11" style="display: block;margin-left: 10px;margin-top: 50px;">
+
+                                                <form id="questionForm">
+                                                    <label for="question_title">Question Title:</label><br>
+                                                    <textarea id="question_title" name="question_title" rows="8" cols="80" placeholder="Enter Question title" required></textarea><br><br>
+                                                    <div>
+                                                        <label for="choice1">Choice 1:</label><br>
+                                                        <textarea id="choice1" name="choice1" rows="2" cols="80" placeholder="Enter Question Choice 1" required></textarea><br><br>
+
+                                                        <label for="choice2">Choice 2:</label><br>
+                                                        <textarea id="choice2" name="choice2" rows="2" cols="80" placeholder="Enter Question Choice 2" required></textarea><br><br>
+
+                                                        <label for="choice3">Choice 3:</label><br>
+                                                        <textarea id="choice3" name="choice3" rows="2" cols="80" placeholder="Enter Question Choice 3" required></textarea><br><br>
+
+                                                        <label for="choice4">Choice 4:</label><br>
+                                                        <textarea id="choice4" name="choice4" rows="2" cols="80" placeholder="Enter Question Choice 4" required></textarea><br><br>
+                                                    </div>
+                                                    <label for="correct_option">Correct Choice:</label><br>
+                                                    <select id="correct_option" name="correct_option" required>
+                                                        <option value="" disabled selected>Choose</option>
+                                                        <option value="choice1">Choice 1</option>
+                                                        <option value="choice2">Choice 2</option>
+                                                        <option value="choice3">Choice 3</option>
+                                                        <option value="choice4">Choice 4</option>
+                                                    </select><br><br>
+
+                                                    <label for="discussion">Discussion:</label><br>
+                                                    <textarea id="discussion" name="discussion" rows="4" cols="80" placeholder="Enter Question Discussion" required></textarea><br><br>
+
+                                                    <a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Submit</a>
+                                                    <button type="button" class="btn btn-secondary" id="clearForm">Clear</button>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <hr class="mb-0 border-gray">
+                    </div>
+
+                    <div class="clearfix">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script>
+        var NotebookViewModel = {
+            firstSerialNo: '@ViewBag.FirstSerialNum',
+            lastSerialNo: '@ViewBag.LastSerialNum',
+            chapterCount: '@ViewBag.ChapterCount',
+            noOfRecords: '@ViewBag.NoOfRecords',
+            PageNo: '@ViewBag.PageNo',
+            subSpecialtyId: '@ViewBag.SubSpecialtyId',
+            chapterName: '@ViewBag.chapterName'
+        };
+        </script>
+
+    </div>
+</div>
+

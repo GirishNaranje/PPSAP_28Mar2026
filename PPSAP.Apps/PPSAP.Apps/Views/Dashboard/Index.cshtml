@@ -1,0 +1,295 @@
+﻿@{
+    ViewBag.Title = "Dashboard";
+}
+@{
+    List<PPSAP.Common.NotificationMessageSetting> notificationMessageSetting = new List<PPSAP.Common.NotificationMessageSetting>();
+    bool isCountOfMessage = false;
+    if (ViewBag.NotificationMessageSettings != null)
+    {
+        notificationMessageSetting = (List<PPSAP.Common.NotificationMessageSetting>)ViewBag.NotificationMessageSettings;
+        isCountOfMessage = notificationMessageSetting.Count > 0 ? true : false;
+    }
+    bool isShowFirstTime = ViewBag.ShowFirstTime != null ? (bool)ViewBag.ShowFirstTime : false;
+}
+@if (TempData["Msg"] != null)
+{
+    <div class="alert alert-dismissable alert-info">
+        <button type="button" class="close" data-dismiss="alert">×</button>
+        @TempData["Msg"].ToString()
+    </div>
+}
+@if (TempData["MsgError"] != null)
+{
+    <div class="alert alert-dismissable alert-danger">
+        <button type="button" class="close" data-dismiss="alert">×</button>
+        @TempData["MsgError"].ToString()
+    </div>
+}
+@*@if (!string.IsNullOrEmpty(@Model[0].RenewalMessage))
+{
+    <div class="text-danger customalert">
+        @Model[0].RenewalMessage
+        @if (!string.IsNullOrEmpty(@Model[0].RenewalLink))
+        {<button class="btn btn-cta" id="renewalLink" link="@Model[0].RenewalLink" style="background-color: red;">Renew</button>}
+
+    </div>
+}*@
+@if (TempData["OptMessage"] != null)
+{
+    <div class="alert alert-dismissable alert-success">
+        <button type="button" class="close" data-dismiss="alert">×</button>
+        @TempData["OptMessage"].ToString()
+    </div>
+}
+<style>
+    .model-ul {
+        padding: 10px 20px 10px 5px;
+        align-content: start;
+        align-items: start;
+        margin-top: 5px;
+    }
+
+    .message-close {
+        font-size: 2em;
+        color: #fff;
+        top: 14px !important;
+        background: none !important;
+    }
+
+        .message-close:hover {
+            color: #fff !important;
+            opacity: 1.5 !important;
+        }
+
+    .ul-messagesettings {
+        padding-left: 10px;
+    }
+
+    .li-message {
+        position: relative;
+        list-style: none;
+        padding-left: 32px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        line-height: 2;
+        font-size: 15px;
+    }
+
+        .li-message:before {
+            font-family: FontAwesome;
+            position: absolute;
+            left: 0;
+            color: #337ab7;
+            font-size: 15px;
+        }
+
+        .li-message.one:before {
+            content: "\f111";
+        }
+
+    .modal-content {
+        border: rgba(0, 0, 0, .2);
+    }
+</style>
+
+<link href="~/Content/SRLandingStyle.css" rel="stylesheet" />
+
+<div id="examList">
+    @Html.Partial("_ExamList")
+    @Html.Partial("_ExamHistory")
+
+    <div class="clearfix"></div>
+    <div class="space-page relative-position "></div>
+    <div class="clearfix"></div>
+
+    <div class="col-lg-8 martop30 xs-nopadding margin-top-exam " id="ChartDivId">
+        <div class="cumulative-performance-chart">
+            <div class="col-lg-4 col-md-4 col-sm-12 nopadding">
+                <h4 class="widget-title">Exam Performance </h4>
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 nopadding">
+                @*<div class="form-group form-inline filter-date">
+                        <label class="padright10 filter-label">Filter by</label>
+                        <div id="reportrange">
+                            <i class="glyphicon glyphicon-calendar fa fa-calendar"></i>&nbsp;
+                            <span></span>
+                        </div>
+                    </div>*@
+                @*<div class="form-group form-inline filter-viewby">
+                        <label class="padright10">View by</label>
+                        <select class="form-control nopadding" id="ChartTypeId">
+                            <option value="-1">All</option>
+                            <option value="0">Custom</option>
+                            <option value="1">Simulated</option>
+                        </select>
+                    </div>*@
+            </div>
+            <div class="clearfix"></div>
+            <div class="col-lg-6 col-sm-6 col-xs-12 xs-martop30 nopadding" id="ScoreComparisonToggle">
+                <div class="form-group form-inline">
+                    @*<label class="pull-left padright15"><i class="fa fa-long-arrow-down" aria-hidden="true"></i>&emsp;Sections wise chart</label>*@
+                    <div class="toggle-switch pull-left">
+                        @*<input type="checkbox" name="toggle-switch1" class="toggle-switch-checkbox PeerCheck" id="toggle-switch1">
+                            <label class="toggle-switch-label margin0" for="toggle-switch1">
+                                <span class="toggle-switch-inner"></span>
+                                <span class="toggle-switch-switch"></span>
+                            </label>*@
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-sm-6 col-xs- xs-font12 chart-legend nopadding" id="DefaultFilterChartId">
+                <span class="legend correct-bg"></span><span class="padright10">Correct</span>
+                <span class="legend incorrect-bg"></span><span class="padright10">Incorrect</span>
+                <span class="legend unanswered-bg"></span><span>Remaining</span>
+            </div>
+            <div class="col-lg-6 col-xs- xs-font12 chart-legend" id="OnChangeFilterChartId" style="display:none">
+                <span class="legend myscore-bg"></span><span class="padright10">My Score</span>
+                <span class="legend AvgPeer-bg"></span><span class="padright10">Average Peer Score</span>
+            </div>
+            <div class="clearfix">
+            </div>
+            <div class="loader_main" style="text-align:center;">
+                <br /><br />
+                <img src="~/Content/img/Processing.gif" />
+            </div>
+
+            <div id="CommulativePerformance_chart" style="width:100%!important" class="hidden-xs">
+            </div>
+            <div class="chart-section visible-xs martop20" id="withoutPeers">
+                <div id="no-more-tables">
+                    <table class="table-striped table-condensed cf " id="table1">
+                        <thead class="cf">
+                            <tr>
+                                <th>Specialty</th>
+                                <th>Correct</th>
+                                <th>Incorrect</th>
+                                <th>Remaining</th>
+                                <th>Total</th>
+                            </tr>
+                        </thead>
+                        <tbody id="Chart1"></tbody>
+                    </table>
+                </div>
+            </div>
+
+            @*<div class="chart-section visible-xs martop20" id="withPeers">
+                <div id="no-more-tables">
+                    <table class="table-striped table-condensed cf ">
+                        <thead class="cf">
+                            <tr>
+                                <th>Specialty</th>
+                                <th>My Score</th>
+                                <th>Avg.Peer Score</th>
+                            </tr>
+                        </thead>
+                        <tbody id="Chart2"></tbody>
+                    </table>
+                </div>
+            </div>*@
+        </div>
+    </div>
+
+    @Html.Partial("_ExamAverageScore")
+
+    <div class="clearfix"></div>
+</div>
+
+<!--OptIn Model Start-->
+@{Html.RenderPartial("_OptInPartial");}
+<!--OptIn Model End-->
+
+<!-- SeeMessageSettingModal start -->
+<div class="modal fade" id="SeeMessageSettingModal" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content message-modal-content">
+            <div class="modal-header bg-primary message-modal-header ">
+                <button type="button" class="close message-close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">New Updates</h4>
+            </div>
+            <div class="model-ul">
+                @if (notificationMessageSetting.Any())
+                {
+                    <ul class="ul-messagesettings">
+                        @foreach (var item in notificationMessageSetting)
+                        {
+                            <li class="li-message one">@Html.Raw(item.NotificationMessage)</li>
+                        }
+                    </ul>
+                }
+            </div>
+        </div>
+
+    </div>
+</div>
+<!-- SeeMessageSetting end-->
+
+
+<script src="~/Scripts/moment.min.js"></script>
+@*<script src="~/Scripts/daterangepicker.js"></script>*@
+<script src="@Url.Content("~/Scripts/daterangepicker.js")" type="text/javascript"></script>
+
+<script src="~/Scripts/loader.js"></script>
+<script src="~/Scripts/Dashboard/jquery.slimscroll.js"></script>
+
+<script>
+        var DashboardGoogleChart = {
+            url: '@Url.Action("GetChartDetail")',
+        };
+</script>
+
+<script src="~/Scripts/Dashboard/dashboard.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        if ("@isShowFirstTime" == "True" && "@isCountOfMessage" == "True") {
+            $('#SeeMessageSettingModal').modal('show');
+        }
+        //	//$('#authors').show();
+        //$('body').addClass('my-body-noscroll-class');
+        var winHeight = $(window).height();
+        var contentHeight = $(".content-area").height(winHeight - 200)
+        @*$(".content-area").slimscroll({
+            height: contentHeight,
+            color: '#888'
+        });*@
+        var ExcerptArray = [];
+        $('.value').each(function () {
+            var text = $(this).text();
+            $(this).parent().css('width', text);
+        });
+        $(".expanded").hide();
+
+        //$("#PerformanceSummeryId").addclass('addnormaltopscore');
+        $(".first-block .expanded a,.first-block .collapsed a").click(function (eve) {
+            eve.preventDefault();
+            $(".first-block .expanded, .first-block .collapsed").toggle();
+            if ($("#PerformanceSummeryId").hasClass('addnormaltopscore')) {
+                $("#PerformanceSummeryId").removeClass('addnormaltopscore').addClass('addexpandtopscore');
+            }
+            else {
+                $("#PerformanceSummeryId").removeClass('addexpandtopscore').addClass('addnormaltopscore');
+            }
+
+
+        });
+    });
+
+    $.ajax({
+        type: 'Post',
+        dataType: "JSON",
+        url: '/SpacedRepetition/GetExamStatusCountSR',
+        success: function (result1) {
+            var responseTextObject = JSON.parse(result1);
+            $(".QuestionAnsweredSR").append(responseTextObject.TotalAnsweredQuestions);
+            $(".TopicsCoveredSR").append(responseTextObject.TopicCount);
+            $(".CorrectAnswersSR").append(responseTextObject.AnsweredCorrectly);
+            $(".IncorrectAnswersSR").append(responseTextObject.AnsweredInCorrectly);
+        }
+    });
+    function closeNav() {
+        $("#authors").fadeOut("slow");
+        $('body').removeClass('my-body-noscroll-class');
+    }
+</script>

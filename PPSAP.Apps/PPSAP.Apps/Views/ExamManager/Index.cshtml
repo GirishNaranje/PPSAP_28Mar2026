@@ -1,0 +1,196 @@
+﻿@using PPSAP.Apps.CustomeHelper
+@model   PPSAP.DTO.ExamDTO
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-12 xs-nopadding">
+            <ul class="breadcrumb">
+                <li class="active">Build Exam</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+ <div class="col-lg-12 xs-nopadding">
+        <div class="content-bg">
+            
+                @using (Html.BeginForm("CreateExam", "ExamManager", FormMethod.Post, new { id = "createExam", @class = "form-inline build-exam" }))
+                {
+                    <div class="content-padding">
+                        @Html.AntiForgeryToken()
+                        @Html.ValidationSummary(true, "", new { @class = "error-text" })
+
+                        <div class="build-exam-top-row">
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.ExamType, "Select Exam Type", new { @class = "control-label" })
+                                <span class="font-red">*</span><br />
+                                @Html.DropDownList("ExamType", (IEnumerable<SelectListItem>)ViewBag.EnumExamList, new { @class = "form-control" })
+                            </div>
+
+                            <div id="custommode" style="display: inline-block !important;">
+                                <div class="form-group exam-title clearable-input">
+                                    @Html.LabelFor(model => model.ExamName, htmlAttributes: new { @class = "control-label" })
+                                    <div class="clearfix"></div>
+                                    @Html.EditorFor(model => model.ExamName, new { htmlAttributes = new { maxlength = 30, @class = "form-control examtitle-input " } })
+                                    <span data-clear-input>&times;</span>
+                                    <div class="clearfix"></div>
+                                    <span class="ExamTitleSpan error-text"></span>
+                                    <span class="SameNameErrSpan error-text"></span>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                        <span class="SimulatedTextSpan" style="font-style: italic;font-size: 12px; display:block"></span>
+                        <hr>
+
+                        <div id="quick">
+                            <div class="col-lg-12 xs-nopadding">
+                                <div class="pull-left selectsection">
+                                    Select Section(s) <span class="font-red"> * </span>
+                                </div>
+                                <div class="pull-left martop2">
+                                    <label class="container-checkbox">
+                                        <input value="" type="checkbox" id='selectall' class="TypeofCategoryList">
+                                        Select all
+                                        <span class='checkmark'></span>
+                                    </label>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div id="ErrorMsg" class='error-text'></div>
+                            </div>
+                            <div class="form-group rt width100percent">
+                             @Html.CheckBoxList((List<SelectListItem>)ViewBag.CategoryTypelist, "TypeofCategoryList", (String[])ViewBag.QuestionTypeListCount)
+                            </div>
+                            <div class="clearfix"></div>
+                            <hr class="martop0">
+                        </div>
+
+                        <div class="clearfix"></div>
+                        <div id="custom">
+                            <div class="build-exam-options">
+                                <div class="form-group form-inline question-number xs-mb0 xs-nopadding">
+                                    @Html.LabelFor(model => model.NoofQuestions, htmlAttributes: new { @class = "control-label pull-left" })
+                                    <span id="QuestionStarmark" class="font-red fixed-label-width"> * </span>
+                                    @Html.EditorFor(model => model.NoofQuestions, new { htmlAttributes = new { maxlength = 4, minlength = 1, @class = "form-control input-count" } })
+                                    <div class="clearfix"></div>
+                                    <span class="NoOfQuesSpan error-text"></span>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div id="ExamModeDiv">
+                                    <div class="form-group form-inline build-exam-section nopadding">
+                                        <div class="col-lg-2 col-sm-4 xs-nopadding">
+                                            @Html.LabelFor(model => model.ExamMode, htmlAttributes: new { @class = "" })
+                                        </div>
+                                        <div class="col-lg-8 col-sm-8 xs-nopadding">
+                                            <div class="toggle-switch" id="exammode12">
+                                                @Html.CheckBoxFor(model => model.ExamMode, htmlAttributes: new { @class = "toggle-switch-checkbox" })
+                                                @*@Html.ValidationMessageFor(model => model.ExamMode, "", new { @class = "text-danger" })*@
+                                                <label class="toggle-switch-label" for="ExamMode">
+                                                    <span class="toggle-switch-inner"></span>
+                                                    <span class="toggle-switch-switch"></span>
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div class="col-lg-12 xs-nopadding" id="Challengetext">
+                                    <span class="marbot20">In challenge mode you are asked to type in your own answer before you see the answer choices.</span>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div class="form-group form-inline build-exam-section nopadding">
+                                    <div class="col-lg-2 col-sm-4 xs-nopadding">
+                                        @Html.LabelFor(model => model.ExamAnswerToShow, htmlAttributes: new { @class = "" })
+                                    </div>
+                                    <div class="col-lg-8 col-sm-8 xs-nopadding">
+                                        <div class="toggle-switch" id="exammode13">
+                                            @Html.CheckBoxFor(model => model.ExamAnswerToShow, htmlAttributes: new { @class = "toggle-switch-checkbox" })
+                                            @*@Html.ValidationMessageFor(model => model.ExamAnswerToShow, "", new { @class = "text-danger" })*@
+                                            <label class="toggle-switch-label" for="ExamAnswerToShow">
+                                                <span class="toggle-switch-inner"></span>
+                                                <span class="toggle-switch-switch"></span>
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div class="col-lg-12 xs-nopadding">
+                                    <span class="">
+                                        When this option is on, correct answers, discussions, and references will display after each question is answered.
+                                    </span>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div id="ExamTypeTimeDiv" class="martop20">
+                                    <div class="form-group form-inline build-exam-section nopadding">
+                                        <div class="col-lg-2 col-sm-4 xs-nopadding">
+                                            @Html.LabelFor(model => model.ExamTimeType, htmlAttributes: new { @class = "" })
+                                        </div>
+                                        <div class="col-lg-8 col-sm-8 xs-nopadding">
+                                            <div class="toggle-switch" id="exammode14">
+                                                @Html.CheckBoxFor(model => model.ExamTimeType, htmlAttributes: new { @class = "toggle-switch-checkbox" })
+                                                @*@Html.ValidationMessageFor(model => model.ExamTimeType, "", new { @class = "text-danger" })*@
+                                                <label class="toggle-switch-label" for="ExamTimeType">
+                                                    <span class="toggle-switch-inner"></span>
+                                                    <span class="toggle-switch-switch"></span>
+                                                </label>
+                                            </div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                        <div class="col-lg-12 xs-nopadding">
+                                            <span class="">
+                                                Time limit for timed exams is calculated by the number of questions selected.
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+
+                            <div class="clearfix"></div>
+                            <hr>
+                        </div>
+
+                        <div id="anothermode">
+                            <div class="form-inline col-lg-12 xs-nopadding">
+                                <label for="exampleInputName2">
+                                    Type of Questions <span class="font-red">*</span>
+                                    
+                                       <div class="col-lg-12 xs-nopadding martop10 xs-marbot10 small marl14">                                     
+                                           <i>The number of questions for the selected section(s) appears in parentheses.</i>                                      
+                                        </div>                                    
+                                </label>
+                                <div id="QuesTypeErr" class='error-text'></div>
+                            </div>
+                            <div class="rtt form-group form-inline width100percent">
+                                @Html.CheckBoxList((List<SelectListItem>)ViewBag.QuestionTypelist, "TypeofQuestionList", (String[])ViewBag.QuestionTypeListCount)
+                                <div class="clearfix"></div>
+                                <hr class="marbot0">
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-12 marbot20 xs-nopadding">
+                            <span class="font-red">*</span><label style="font-style: italic;font-size: 12px;">Required field </label>
+                        </div>
+                     
+                        <div class="col-lg-6 text-left marbot20 xs-nopadding">
+
+                            <input type="submit" value="Start Exam" id="Create" class="btn btn-default btn-primary" />
+                            <input type="button" value="Cancel" id="Cancel" class="btn btn-default" />
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                }
+                    
+
+        </div>
+
+    </div>
+
+
+<script src="~/Scripts/BuilExam/BuildExam.js"></script>
+

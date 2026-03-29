@@ -1,0 +1,105 @@
+﻿@model PPSAP.Common.NotificationMessageSetting
+@{
+    ViewBag.Title = "Addmsg";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("SignUp_CreateUser", "Login", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <form>
+        <div class="container" id="pageContent">
+            <div class="n4m-layout-pageSpan well">
+                <div class="container-fluid">
+                    <div id="dnn_ContentPane" class="ContentPane">
+                        <h2>Create Account</h2>
+                        <div class="row">
+                            <br />
+                            <div class="col-md-6">
+                                <div>
+                                    <div></div>
+                                </div>
+                                <div class="form-group marginbottom">
+                                    <label id="" class="control-label">First Name&ensp;<span style="color:red;">*</span></label>
+                                    @Html.TextBoxFor(model => model.FirstName, new { @class = "form-control", @type = "text", placeholder = "Enter First Name", id = "FName" })
+                                    @*@Html.ValidationMessageFor(model => model.FirstName, null, new { @class = "text-danger" })*@
+                                    <span id="FName-error" class="text-danger"></span>
+                                </div>
+                                <div class="form-group marginbottom">
+                                    <label id="" class="control-label">Last Name&ensp;<span style="color:red;">*</span></label>
+                                    @Html.TextBoxFor(model => model.LastName, new { @class = "form-control", @type = "text", placeholder = "Enter Last Name", id = "LName" })
+                                    @*@Html.ValidationMessageFor(model => model.LastName, null, new { @class = "text-danger" })*@
+                                    <span id="LName-error" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label for="dnn_ctr1179_Login_txtEmail" id="Login_Email" class="control-label">Email&ensp;<span style="color:red;">*</span></label>
+                                    @Html.TextBoxFor(model => model.UserEmail, new { @class = "form-control", @type = "email", placeholder = "Enter Email", id = "Emailid_SignUp" })
+                                    @*@Html.ValidationMessageFor(model => model.UserEmail, null, new { @class = "text-danger" })*@
+                                    <span id="Emailid_SignUp-error" class="text-danger"></span>
+                                </div>
+                                <div class="form-group marginbottom">
+                                    <label id="" class="control-label">Password&ensp;<span style="color:red;">*</span></label>
+                                    <div class="input-group">
+                                        @Html.TextBoxFor(model => model.Password, new { @class = "form-control", @type = "password", placeholder = "Enter password", id = "passwordInput_SignUp" })
+                                        <span class="input-group-addon toggle-password" id="togglePassword">
+                                            <i class="fa fa-eye" aria-hidden="true"></i>
+                                        </span>
+                                    </div>
+                                    @*@Html.ValidationMessageFor(model => model.Password, null, new { @class = "text-danger" })*@
+                                    <span id="passwordInput_SignUp-error" class="text-danger"></span>
+                                </div>
+                                <div class="form-group marginbottom">
+                                    <label id="" class="control-label">Role&ensp;<span style="color:red;">*</span></label>
+                                    @Html.DropDownListFor(model => model.Role, new SelectList
+                                        (new[] {
+                    @*new SelectListItem { Text = "Select a role", Value = "", Disabled = true, Selected = true },*@
+new SelectListItem { Text = "User", Value = "User" },
+                    @*new SelectListItem { Text = "Admin", Value = "Admin" }*@
+}, "Value", "Text"), new { @class = "form-control", disabled = "disabled", @readonly = "readonly" })
+                                    @Html.ValidationMessageFor(model => model.Role, null, new { @class = "text-danger" })
+                                </div>
+                                <input type="submit" value="Create" class="btn btn-primary" id="Create_Button" />
+                                <input type="button" value="Clear" class="btn btn-default" onclick="clearFields_SignUp()" />
+                                <ul class="forgot">
+                                    <li>Already an account?</li>
+                                    <li><a href="@Url.Content("~/Login/Index")">Sign In</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="well login-sidebar">
+                                    <p><strong><span id="dnn_ctr1179_Login_lblOrgMemberQuestionText">If you have already an Account?</span></strong></p>
+                                    <p>
+                                        <span id="dnn_ctr1179_Login_lblOrgMemberRegisterdText">You can Sign In to your account to use Pre-Placement Self Assessment Program by clicking on Sign In link.</span><br />
+                                        <a href="@Url.Content("~/Login/Index")"><span id="dnn_ctr1179_Login_lblOrgMemberCreateAccountText">Sign In</span></a>
+                                    </p>
+                                    <p>
+                                        <span id="dnn_ctr1179_Login_lblOrgMemberDoNoCreateAccountText">If you believe you have an account and are unable to log in, DON'T CREATE A NEW ACCOUNT.</span><br />
+                                        <span>Try to <a href="@Url.Content("~/Login/Index")">Sign In</a> or contact us.</span>
+                                    </p><br />
+                                    <h4>Contact:</h4>
+                                    <ul class="list-unstyled">
+                                        <li><a href="mailto:member.services2024@gmail.com" target="_blank">member.services2024@gmail.com</a></li>
+                                        <li>+91-7400267154 or +91-7385415148</li>
+                                    </ul>
+                                    <div class="divider">&nbsp;</div>
+                                    <h3>Discover</h3>
+                                    <ul class="blocks">
+                                        <li>About the self knowledge</li>
+                                        <li>About self improvement areas</li>
+                                        <li>About Self-confidence</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+}
+
+<link href="~/Content/Login/SignIn.css" rel="stylesheet" />
+<script src="~/Scripts/Login/Login_Signup.js"></script>
+<script src="~/Scripts/Login/validateEmail.js"></script>

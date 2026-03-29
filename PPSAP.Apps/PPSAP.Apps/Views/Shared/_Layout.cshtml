@@ -1,0 +1,425 @@
+﻿@{
+    var userRoleCookie = Request.Cookies["UserRole"];
+    string userRole = userRoleCookie != null ? userRoleCookie.Value : "";
+}
+<!DOCTYPE html>
+<html>
+<head>
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-PD7P6LW2');</script>
+    <!-- End Google Tag Manager -->
+    <!-- Microsoft CLarity -->
+    <script type="text/javascript">
+        (function (c, l, a, r, i, t, y) {
+            c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+            t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+            y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+        })(window, document, "clarity", "script", "lqs35r5m1y");
+    </script>
+    <!-- Microsoft CLarity -->
+
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title | Pre-Placement Self Assessment Program</title>
+
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+
+    <link href="~/Content/daterangepicker.css" rel="stylesheet" />
+    <script src="~/Scripts/daterangepicker.js"></script>
+    <script src="~/Scripts/Dashboard/jquery.slimscroll.js"></script>
+
+    <link href="~/Content/DataTables/css/buttons.dataTables.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/DataTables/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery.bootstrap-responsive-tabs.js"></script>
+    <script src="~/Scripts/DataTables/jquery.dataTables.min.js"></script>
+    <script src="~/Scripts/DataTables/dataTables.bootstrap.js"></script>
+    <link href="~/Content/bootstrap-responsive-tabs.css" rel="stylesheet" />
+    <script src="~/Scripts/DataTables/dataTables.responsive.min.js"></script>
+    <link href="~/Content/DataTables/css/responsive.dataTables.min.css" rel="stylesheet" />
+    <link href="~/Content/custom.css" rel="stylesheet" />
+    <link href="~/Content/Layout/Layout.css" rel="stylesheet" />
+    <link href="~/Content/toast-messages.css" rel="stylesheet" />
+    <script src="~/Scripts/toast-message.js"></script>
+    <script src="~/Scripts/loader.js"></script>
+
+    @Scripts.Render("~/bundles/modernizr")
+
+    @*@if (Request.IsAuthenticated)
+        {
+            @Html.Partial("~/Views/Shared/_KeepAlive.cshtml")
+        }*@
+</head>
+<body>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PD7P6LW2"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div id="pageMessages"></div>
+
+    <header>
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header header">
+                    <div class="col-lg-12 col-xs-10">
+                        @if (userRole == "U")
+                        {
+                            <a class="navbar-brand logo-size" href="@Url.Content("~/Dashboard/Index")">
+                            </a>
+                        }
+                        else if (userRole == "A")
+                        {
+                            <a class="navbar-brand logo-size" href="@Url.Content("~/AllQuestions/Index")">
+                            </a>
+                        }
+                        else
+                        {
+                            <a class="navbar-brand logo-size" href="@Url.Content("~/Home/Index")">
+                            </a>
+                        }
+                    </div>
+                    <div class="col-xs-2">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" style="border: none;">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                </div>
+                @if (!System.Web.HttpContext.Current.User.Identity.IsAuthenticated)
+                {
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="Login-Signup_buttom" id="header-search-div">
+                        <div>
+                            <a class="btn btn-primary" href="@Url.Content("~/Login/Index")" role="button">Sign In</a>
+                            <a class="btn btn-success" href="@Url.Content("~/Login/SignUp")" role="button">Sign Up</a>
+                        </div>
+                    </div>
+                }
+                @if (userRole == "U")
+                {
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="header-search" id="header-search-div">
+                        <div class="input-group">
+                            <input type="text" id="headersearch" search="searchbox" class="form-control" placeholder="Search">
+                            <span class="input-group-btn">
+                                <a id="searchButton" class="btn btn-primary" href="#" onclick="@("location.href='"+ Url.Action("Index","SearchByExam")+ "'")"><span class="icn-search"></span></a>
+                            </span>
+                        </div>
+                    </div>
+                }
+                @if (userRole == "U")
+                {
+                    <div class="header-secondary-icons pull-left xs-padleft12">
+                        <li class="pull-right ">
+                            <a href="@Url.Content("~/Dashboard/HelpPage")" style="color: #8679a3;">
+                                <i class="fa fa-question-circle"></i>  Help
+                            </a>
+                        </li>
+                        <li class="nopadding">
+                            <a href="@Url.Content("~/Dashboard/AboutPage")" style="color: #8679a3;">
+                                <i class="fa fa-info-circle"></i> About
+                            </a> &nbsp;
+                        </li>
+                    </div>
+                }
+            </div>
+            <div class="col-md-12">
+                <div class="collapse navbar-collapse LayoutMainTabs" id="bs-example-navbar-collapse-1">
+                    @if (System.Web.HttpContext.Current.User.Identity.IsAuthenticated)
+                    {
+                        <ul class="nav navbar-nav main-menu">
+                            @if (userRole == "A")
+                            {
+                                <li>
+                                    <a href="@Url.Content("~/AllQuestions/Index")">
+                                        <i class="fa fa-quora text-center menu-icons"></i>All Questions
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="@Url.Content("~/AggregateUserPerformance/Index")">
+                                        <i class="fa fa-line-chart text-center menu-icons"></i>Reports
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="@Url.Content("~/AdminQuestionPerformance/Index")">
+                                        <i class="fa fa-area-chart text-center menu-icons"></i>Question Performance
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="@Url.Content("~/UtilizationReports/Index")">
+                                        <i class="fa fa-bar-chart text-center menu-icons"></i>Utilization Reports
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="@Url.Content("~/OptInReports/Index")">
+                                        <i class="fa fa-universal-access text-center menu-icons"></i>T&C Reports
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="@Url.Content("~/UserView/Index")">
+                                        <i class="fa fa-user-circle-o text-center menu-icons"></i>User View
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="@Url.Content("~/NotificationMessageSetting/Index")">
+                                        <i class="fa fa-cog text-center menu-icons"></i>Pop-up Settings
+                                    </a>
+                                </li>
+                            }
+                            @if (userRole == "U")
+                            {
+                                <li id="Dashboard">
+                                    <a href="@Url.Content("~/Dashboard/Index")">
+                                        <i class="fa fa-tachometer text-center menu-icons"></i>
+                                        Dashboard
+                                    </a>
+                                </li>
+                                <li class="space-rep-icon">
+                                    <a href="@Url.Content("~/SpacedRepetition/SRLanding")" id="spaceRep" style="clear:left" class="spaceRep-margin">
+                                        <i class="fa fa-retweet text-center menu-icons" aria-hidden="true"></i>
+                                        Spaced Repetition
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="@Url.Content("~/ExamManager/Index")">
+                                        <i class="fa fa-file text-center menu-icons" style="color:#8679a3;"></i>
+                                        Build Exam
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="@Url.Content("~/ExamHistory/Index")">
+                                        <i class="fa fa-save text-center menu-icons"></i>
+                                        Exam History
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="@Url.Content("~/AggregatePerformance/Index")">
+                                        <i class="fa fa-line-chart text-center menu-icons"></i>
+                                        Exam Reports
+                                    </a>
+                                </li>
+                            }
+                        </ul>
+                    }
+                    <ul class="nav navbar-nav navbar-right wc-lg">
+                        <div class="username">
+                            @if (System.Web.HttpContext.Current.User.Identity.IsAuthenticated)
+                            {
+                                string[] @Name = (System.Web.HttpContext.Current.User.Identity.Name.Split('|'));
+                            <li>
+                                <span class="welcome-message">Welcome </span>@Name[1]
+                            </li>
+                            <li>
+                                <a href="@Url.Content("~/Login/SignOut")" class="welcome-message">
+                                    <i class="fa fa-sign-out"></i>Sign Out
+                                </a>
+                            </li>
+                        }
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+        <div class="container-fluid body-content wrapper">
+            @RenderBody()
+        </div>
+
+        @if (System.Web.HttpContext.Current.User.Identity.IsAuthenticated)
+        {
+            <footer class="martop30">
+                <div class="container-fluid">
+                    <div class="col-lg-12 text-center xs-nopadding">
+                        <div class="copyright-text">
+                            &copy Pre-Placement Self Assessment program @DateTime.Now.Year
+                        </div>
+                    </div>
+                    <div class="clearfix">
+                    </div>
+                </div>
+            </footer>
+        }
+        else
+        {
+            <div id="pageFooter" class="footer-wrapper">
+                <div class="footer-content">
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="column-links">
+                                <div class="footer-tagline"><h3>Evaluating Minds. Empowering Futures.</h3>&nbsp;</div>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <ul class="list-unstyled">
+                                            <li><a href="@Url.Content("~/Home/Contact")">Contact Us</a></li>
+                                            <li><a href="@Url.Content("~/Home/About")">About the Program</a></li>
+                                            <li><a href="@Url.Content("~/Home/PrivacyPolicy")">Privacy Policy</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <ul class="list-unstyled">
+                                            <li><a href="@Url.Content("~/Home/TermsofServices")">Terms of Service</a></li>
+                                            <li><a href="@Url.Content("~/Home/Help")">Help</a></li>
+                                            <li><a href="@Url.Content("~/Home/Contact")">For Advertisers</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="column-sites">
+                                <h3>Visit for Basic Learnings:</h3>
+                                <ul class="list-unstyled">
+                                    <li><a href="https://www.indiabix.com/" target="_blank">India Bix</a></li>
+                                    @*<li><a href="https://www.sawaal.com/" target="_blank">Sawaal</a></li>*@
+                                    <li><a href="https://www.w3schools.com/" target="_blank">W3 School</a></li>
+                                    <li><a href="https://www.geeksforgeeks.org/" target="_blank">Geeks for Geeks</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="column-follow">
+                                <h3>Follow us on:</h3>
+                                <p class="text-muted" style="margin-bottom: 5px;">Official</p>
+                                <ul class="social-nav">
+                                    <li>
+                                        <a title="Facebook" href="https://www.facebook.com/PPSAPedu/" target="_blank">
+                                            <img class="social-icn" src="~/svg/icn-facebook.png" alt="Facebook" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a title="Twitter" href="https://twitter.com/home" target="_blank">
+                                            <img class="social-icn" src="~/svg/icn-twitter.png" alt="Twitter" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a title="LinkedIn" href="https://in.linkedin.com/" target="_blank">
+                                            <img class="social-icn" src="~/svg/icn-linkedin.png" alt="LinkedIn" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a title="YouTube" href="https://www.youtube.com/channel/UCh-fk0y9YVJWA92RfRsDksg" target="_blank">
+                                            <img class="social-icn" src="~/svg/icn-youtube.png" alt="YouTube" />
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 copyright text-left">
+                            &copy Pre-Placement Self Assessment program @DateTime.Now.Year
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <style>
+                html, body {
+                    height: 100%;
+                    margin: 0;
+                    padding: 0;
+                }
+
+                #pageFooter {
+                    height: auto;
+                }
+            </style>
+        }
+
+        <script src="~/Scripts/CommonScript/CommonScript.js"></script>
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+    </body>
+</html>
+<script>
+ //for redirecting after timeout
+@*    var RETURN_SITE_URL = "@returnSiteUrl";
+    window.onload = initScript(RETURN_SITE_URL);*@
+
+    $(document).ajaxError(function (xhr, props) {
+        if (props.status === 401) {
+            /**/
+            window.location.href = '/Login/SignOut';
+        }
+    });
+
+    function searchPPSAP() {
+        let searchitem = $('#headersearch').val();
+        if (searchitem.trim() != "") {
+            window.location.href = '/SearchByExam/SearchByQuestions' + '?SearchTerm=' + searchitem.trim() + '&Filter=' + "All";
+        }
+    }
+
+    $('#headersearch').keypress(function (e) {
+        var key = e.which;
+        if (key == 13)  // the enter key code
+        {
+            searchPPSAP();
+            return false;
+        }
+    });
+</script>
+@*<style>
+        a#spaceRep:hover > div > #spaceImg {
+            content: url('/Content/img/spaceRepition.svg');
+        }
+
+        a#spaceRep:active > div > #spaceImg {
+            content: url('/Content/img/spaceRepition.svg');
+        }
+
+        a#spaceRep:visited > #spaceImg {
+            content: url('/Content/img/spaceRepition.svg');
+        }
+
+        a#spaceRep:after > div > #spaceImg {
+            content: url('/Content/img/spaceRepition.svg');
+        }
+
+        .addspaceRep {
+            content: url('/Content/img/spaceRepition.svg');
+        }
+
+        .space-rep-icon.active img#spaceImg {
+            content: url('/Content/img/spaceRepition.svg');
+        }
+
+        #spaceImg {
+            width: 100%;
+            height: 100%;
+            color: #8679a3;
+        }
+
+        .divImage {
+            display: block;
+            text-align: center;
+            width: 20px;
+            height: 20px;
+            margin: 0 auto;
+        }
+
+        #spaceRep {
+            margin-top: 0px;
+        }
+    </style>*@
